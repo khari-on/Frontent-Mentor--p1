@@ -90,7 +90,7 @@ body{
     margin-right: 10px;
 }
 
-@media screen and (min-width: 455px) {
+@media screen and (min-width: 450px) {
     body{
         display: flex;
         flex-direction: column;
